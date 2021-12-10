@@ -1,0 +1,27 @@
+.heading{
+    width:100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border:1px solid  white;
+}
+.big_image{
+    width: 100%;   
+}
+.heading{
+    font-size: 22px;
+    float: none;
+}
+h4{
+background-color: deeppink;
+line-height: 2;
+margin: 0px;
+color:ghostwhite;
+}
+a{
+    color:yellow;
+}
